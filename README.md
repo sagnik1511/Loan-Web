@@ -20,6 +20,10 @@ In Loan-Marketing business employees are required to call the user's to buy loan
      5. Reduce asset maintenance expenses as daily calls are getting reduced.
 
 ---
+
+## Dataset :
+  The data has been collected from kaggle Banking Dataset-Marketing Targets.
+  More about the dataset are in this [link](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets).
     
 ## Tech-Stack :
       
