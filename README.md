@@ -56,9 +56,10 @@ In Loan-Marketing business employees are required to call the user's to buy loan
 | ![](https://github.com/sagnik1511/Loan-Web/blob/main/assets/Inetrface/initial%20interface_pc.png) | ![](https://github.com/sagnik1511/Loan-Web/blob/main/assets/Inetrface/interface_mobile.jpeg) |
 
   
- #### Functional State :
+ #### HOW to Use :
  
- ![](https://github.com/sagnik1511/Loan-Web/blob/main/assets/Inetrface/functional_interface.mp4)
+ You can download the [use approach](https://github.com/sagnik1511/Loan-Web/blob/main/assets/Inetrface/functional_interface.mp4).
+
  
  
  ## STAR this repository to keep the developer sane :)
