@@ -1,5 +1,7 @@
 # Loan-Web
 ML powered Customer Filtering Engine for Loan Marketing
+
+[Streamlit Server Deployment](https://share.streamlit.io/sagnik1511/loan-web/main/loan_web_app.py)
 ---
 Developed with ❤ 
 
