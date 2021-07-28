@@ -121,7 +121,7 @@ if st.sidebar.button('SUBMIT'):
     
     prediction=clf.predict(df)
     prob=clf.predict_proba(df)*100
-    prob=pd.DataFrame(prob,columns=['Rejection Possibility(in %)','Accepting Possibily(in %)'])
+    prob=pd.DataFrame(prob,columns=['Rejection Possibility(in %)','Accepting Possibility(in %)'])
     if int(prediction.reshape(1))==1:
         image = Image.open('assets/images/pos.png')
         st.image(image)
