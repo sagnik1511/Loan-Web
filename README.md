@@ -4,12 +4,12 @@
 
 <div align = "center"><h4><a href="https://share.streamlit.io/sagnik1511/loan-web/main/loan_web_app.py">Streamlit Server Deployment</a></h4></div>
 
----
+
 
 <div align = "center"><h4>Developed with ❤ </h4></div>
 <div align = "center"><img src="https://github.com/sagnik1511/Loan-Web/blob/main/assets/images/head.jpg"></div>
 
-
+---
 ## Description :
 In Loan-Marketing business employees are required to call the user's to buy loans of several fields and in several magnitudes. If employees are calling everybody in the network it is also very lengthy and uncertain that most of the customers will buy it. So, there is a very need for a filtering system that segregates the customers who are unlikely to buy loans and the opposite. **Loan-Web** is visualized and made up on that context.
 
