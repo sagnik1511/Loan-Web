@@ -1,11 +1,13 @@
-# Loan-Web
-ML powered Customer Filtering Engine for Loan Marketing
+<div align = "center"><h1>Loan-Web</h1></div>
 
-[Streamlit Server Deployment](https://share.streamlit.io/sagnik1511/loan-web/main/loan_web_app.py)
+<div align = "center"><h4>ML powered Customer Filtering Engine for Loan Marketing</h4></div>
+
+<div align = "center"><h4><a href="https://share.streamlit.io/sagnik1511/loan-web/main/loan_web_app.py">Streamlit Server Deployment</a></h4></div>
+
 ---
-Developed with ❤ 
 
-![](https://github.com/sagnik1511/Loan-Web/blob/main/assets/images/head.jpg)
+<div align = "center"><h4>Developed with ❤ </h4></div>
+<div align = "center"><img src="https://github.com/sagnik1511/Loan-Web/blob/main/assets/images/head.jpg"></div>
 
 
 ## Description :
